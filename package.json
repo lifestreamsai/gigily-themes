@@ -1,8 +1,8 @@
 {
   "name": "office-themes",
   "displayName": "Gigily Themes",
-  "description": "Beautiful light and dark VS Code color themes with vibrant accent colors - Emerald, Sapphire, Sunset, Sky, and Violet",
-  "version": "1.0.8",
+  "description": "Beautiful light and dark VS Code color themes - Word (blue), Sheet (green), Slide (orange), Mail (cyan), and Note (purple)",
+  "version": "1.0.9",
   "publisher": "nimatra",
   "icon": "icon.png",
   "engines": {
@@ -16,15 +16,16 @@
     "dark",
     "light",
     "color",
-    "emerald",
-    "sapphire",
-    "sunset",
-    "sky",
-    "violet",
+    "word",
+    "sheet",
+    "slide",
+    "mail",
+    "note",
     "green",
     "blue",
     "orange",
-    "purple"
+    "purple",
+    "cyan"
   ],
   "repository": {
     "type": "git",
@@ -33,52 +34,52 @@
   "contributes": {
     "themes": [
       {
-        "label": "Gigily Sapphire Dark",
+        "label": "Gigily Word Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/word-dark-color-theme.json"
       },
       {
-        "label": "Gigily Sapphire Light",
+        "label": "Gigily Word Light",
         "uiTheme": "vs",
         "path": "./themes/word-light-color-theme.json"
       },
       {
-        "label": "Gigily Emerald Dark",
+        "label": "Gigily Sheet Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/excel-dark-color-theme.json"
       },
       {
-        "label": "Gigily Emerald Light",
+        "label": "Gigily Sheet Light",
         "uiTheme": "vs",
         "path": "./themes/excel-light-color-theme.json"
       },
       {
-        "label": "Gigily Sunset Dark",
+        "label": "Gigily Slide Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/powerpoint-dark-color-theme.json"
       },
       {
-        "label": "Gigily Sunset Light",
+        "label": "Gigily Slide Light",
         "uiTheme": "vs",
         "path": "./themes/powerpoint-light-color-theme.json"
       },
       {
-        "label": "Gigily Sky Dark",
+        "label": "Gigily Mail Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/outlook-dark-color-theme.json"
       },
       {
-        "label": "Gigily Sky Light",
+        "label": "Gigily Mail Light",
         "uiTheme": "vs",
         "path": "./themes/outlook-light-color-theme.json"
       },
       {
-        "label": "Gigily Violet Dark",
+        "label": "Gigily Note Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/onenote-dark-color-theme.json"
       },
       {
-        "label": "Gigily Violet Light",
+        "label": "Gigily Note Light",
         "uiTheme": "vs",
         "path": "./themes/onenote-light-color-theme.json"
       }
