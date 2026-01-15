@@ -130,7 +130,15 @@
     "titleBar.inactiveBackground": "#3090E0",
     "titleBar.inactiveForeground": "#FFFFFFAA",
     "titleBar.border": "#005A9E",
-    
+
+    // Command Center (search box in title bar)
+    "commandCenter.background": "#FFFFFF",
+    "commandCenter.foreground": "#333333",
+    "commandCenter.border": "#005A9E",
+    "commandCenter.activeBackground": "#F5F5F5",
+    "commandCenter.activeForeground": "#333333",
+    "commandCenter.activeBorder": "#0078D4",
+
     // Menu Bar
     "menubar.selectionForeground": "#FFFFFF",
     "menubar.selectionBackground": "#005A9E",

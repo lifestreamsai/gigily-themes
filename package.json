@@ -2,7 +2,7 @@
   "name": "office-themes",
   "displayName": "Gigily Themes",
   "description": "Beautiful light and dark VS Code color themes - Word (blue), Sheet (green), Slide (orange), Mail (cyan), and Note (purple)",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "publisher": "nimatra",
   "icon": "icon.png",
   "engines": {
