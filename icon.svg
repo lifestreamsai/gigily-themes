@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#2d2d2d" />
+            <stop offset="100%" style="stop-color:#1e1e1e" />
+        </linearGradient>
+    </defs>
+
+    <!-- Background -->
+    <rect width="128" height="128" rx="16" fill="url(#bg)" />
+
+    <!-- G letter made of 5 colored segments representing the 5 Office apps -->
+
+    <!-- Excel Green - Top of G -->
+    <path d="M 84 32 L 84 42 L 50 42 C 40 42 32 50 32 60 L 32 68 L 42 68 L 42 60 C 42 55 46 52 50 52 L 84 52 L 84 42"
+        fill="#217346" />
+
+    <!-- Word Blue - Left side of G -->
+    <path d="M 32 60 L 32 85 L 42 85 L 42 60" fill="#2B579A" />
+
+    <!-- Outlook Blue - Bottom left curve -->
+    <path d="M 32 85 C 32 95 40 103 50 103 L 60 103 L 60 93 L 50 93 C 46 93 42 90 42 85 L 32 85" fill="#0078D4" />
+
+    <!-- PowerPoint Orange - Bottom of G -->
+    <path d="M 60 93 L 60 103 L 84 103 L 84 93 L 60 93" fill="#D24726" />
+
+    <!-- OneNote Purple - G crossbar -->
+    <path d="M 84 68 L 84 78 L 60 78 L 60 68 L 84 68" fill="#7719AA" />
+
+    <!-- Right side completing the G -->
+    <path d="M 84 78 L 84 103 L 94 103 L 94 68 L 84 68 L 84 78" fill="#7719AA" />
+
+    <!-- Top right of G -->
+    <path d="M 84 32 L 94 32 L 94 52 L 84 52 L 84 32" fill="#217346" />
+
+</svg>

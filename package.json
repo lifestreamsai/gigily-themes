@@ -1,9 +1,10 @@
 {
-  "name": "office-themes",
-  "displayName": "Office Themes",
+  "name": "gigily-themes",
+  "displayName": "Gigily Themes",
   "description": "Light and dark VS Code color themes inspired by Microsoft Office applications - Word, Excel, PowerPoint, Outlook, and OneNote",
-  "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "version": "1.0.1",
+  "publisher": "nimatra",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
