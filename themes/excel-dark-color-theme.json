@@ -131,10 +131,10 @@
     "titleBar.border": "#1D6F42",
 
     // Command Center (search box in title bar)
-    "commandCenter.background": "#D4EDE0",
+    "commandCenter.background": "#A8D8B8",
     "commandCenter.foreground": "#1A5A38",
     "commandCenter.border": "#1D6F42",
-    "commandCenter.activeBackground": "#C0E5CE",
+    "commandCenter.activeBackground": "#98CCA8",
     "commandCenter.activeForeground": "#1A5A38",
     "commandCenter.activeBorder": "#217346",
 
