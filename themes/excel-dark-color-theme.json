@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Excel Dark",
+  "name": "Gigily Emerald Dark",
   "type": "dark",
   "colors": {
     // Base colors
@@ -150,7 +150,7 @@
     "notificationLink.foreground": "#4FC978",
     
     // Command Palette & Quick Input
-    "quickInput.background": "#252526",
+    "quickInput.background": "#1E3D2B",
     "quickInput.foreground": "#CCCCCC",
     "quickInputTitle.background": "#1e1e1e",
     "quickInputList.focusBackground": "#217346",

@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Outlook Dark",
+  "name": "Gigily Sky Dark",
   "type": "dark",
   "colors": {
     // Base colors
@@ -150,7 +150,7 @@
     "notificationLink.foreground": "#5CB3FF",
     
     // Command Palette & Quick Input
-    "quickInput.background": "#252526",
+    "quickInput.background": "#1E3545",
     "quickInput.foreground": "#CCCCCC",
     "quickInputTitle.background": "#1e1e1e",
     "quickInputList.focusBackground": "#0078D4",

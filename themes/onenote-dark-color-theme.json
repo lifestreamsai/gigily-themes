@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "OneNote Dark",
+  "name": "Gigily Violet Dark",
   "type": "dark",
   "colors": {
     // Base colors
@@ -150,7 +150,7 @@
     "notificationLink.foreground": "#C99FDC",
     
     // Command Palette & Quick Input
-    "quickInput.background": "#252526",
+    "quickInput.background": "#2D1E3D",
     "quickInput.foreground": "#CCCCCC",
     "quickInputTitle.background": "#1e1e1e",
     "quickInputList.focusBackground": "#7719AA",

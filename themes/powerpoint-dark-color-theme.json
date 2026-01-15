@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "PowerPoint Dark",
+  "name": "Gigily Sunset Dark",
   "type": "dark",
   "colors": {
     // Base colors
@@ -150,7 +150,7 @@
     "notificationLink.foreground": "#E88565",
     
     // Command Palette & Quick Input
-    "quickInput.background": "#252526",
+    "quickInput.background": "#3D2B1E",
     "quickInput.foreground": "#CCCCCC",
     "quickInputTitle.background": "#1e1e1e",
     "quickInputList.focusBackground": "#C43E1C",

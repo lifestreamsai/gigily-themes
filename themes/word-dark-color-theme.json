@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Word Dark",
+  "name": "Gigily Sapphire Dark",
   "type": "dark",
   "colors": {
     // Base colors
@@ -150,7 +150,7 @@
     "notificationLink.foreground": "#5B9BD5",
     
     // Command Palette & Quick Input
-    "quickInput.background": "#252526",
+    "quickInput.background": "#1E2D45",
     "quickInput.foreground": "#CCCCCC",
     "quickInputTitle.background": "#1e1e1e",
     "quickInputList.focusBackground": "#185ABD",
