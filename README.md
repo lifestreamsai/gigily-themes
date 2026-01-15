@@ -1,46 +1,43 @@
-# Excel Dark Theme
+# Gigily Themes
 
-A dark VS Code color theme inspired by Microsoft Excel, featuring Excel's signature green accent colors with comfortable dark backgrounds for extended coding sessions.
+Beautiful light and dark VS Code color themes with vibrant accent colors. Each theme features a unique color identity while maintaining excellent readability and a professional look.
+
+## Themes
+
+| Theme | Color | Light | Dark |
+|-------|-------|-------|------|
+| **Word** | Blue | Gigily Word Light | Gigily Word Dark |
+| **Sheet** | Green | Gigily Sheet Light | Gigily Sheet Dark |
+| **Slide** | Orange | Gigily Slide Light | Gigily Slide Dark |
+| **Mail** | Cyan | Gigily Mail Light | Gigily Mail Dark |
+| **Note** | Purple | Gigily Note Light | Gigily Note Dark |
 
 ## Features
 
-- **Dark backgrounds** - Easy on the eyes with #1e1e1e base color
-- **Excel green accents** - Signature #217346 green used throughout
+- **10 themes** - 5 color variants, each with light and dark modes
+- **Colored title bars** - Distinctive accent colors in the title bar and status bar
 - **Comprehensive syntax highlighting** - Support for all major languages
 - **Semantic highlighting** - Enhanced token colorization
+- **Comfortable contrast** - Easy on the eyes for extended coding sessions
 
 ## Installation
 
-### From VS Code Marketplace
-
 1. Open VS Code
-2. Go to Extensions (`Cmd+Shift+X`)
-3. Search for "Excel Dark"
+2. Go to Extensions (`Cmd+Shift+X` / `Ctrl+Shift+X`)
+3. Search for "Gigily Themes"
 4. Click Install
-5. Select **Excel Dark** from the Color Theme picker (`Cmd+K Cmd+T`)
-
-### From Source
-
-1. Clone this repository
-2. Open in VS Code
-3. Press `F5` to launch Extension Development Host
-4. Select **Excel Dark** from the Color Theme picker
+5. Open the Color Theme picker (`Cmd+K Cmd+T` / `Ctrl+K Ctrl+T`)
+6. Select your preferred Gigily theme
 
 ## Color Palette
 
-| Element            | Color        | Hex       |
-| ------------------ | ------------ | --------- |
-| Background         | Dark Gray    | `#1e1e1e` |
-| Editor Background  | Dark Gray    | `#1e1e1e` |
-| Sidebar Background | Dark Gray    | `#1e1e1e` |
-| Status Bar         | Excel Green  | `#217346` |
-| Accent             | Excel Green  | `#217346` |
-| Highlight          | Bright Green | `#4FC978` |
-| Text               | Light Gray   | `#D4D4D4` |
-
-## Screenshots
-
-_Coming soon_
+| Theme | Primary | Accent |
+|-------|---------|--------|
+| Word | `#185ABD` | Blue |
+| Sheet | `#217346` | Green |
+| Slide | `#C43E1C` | Orange |
+| Mail | `#0078D4` | Cyan |
+| Note | `#7719AA` | Purple |
 
 ## Contributing
 
