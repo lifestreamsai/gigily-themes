@@ -1,0 +1,88 @@
+{
+  "name": "office-themes",
+  "displayName": "Office Themes",
+  "description": "Light and dark VS Code color themes inspired by Microsoft Office applications - Word, Excel, PowerPoint, Outlook, and OneNote",
+  "version": "1.0.0",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "microsoft",
+    "office",
+    "word",
+    "excel",
+    "powerpoint",
+    "outlook",
+    "onenote"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Word Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/word-dark-color-theme.json"
+      },
+      {
+        "label": "Word Light",
+        "uiTheme": "vs",
+        "path": "./themes/word-light-color-theme.json"
+      },
+      {
+        "label": "Excel Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/excel-dark-color-theme.json"
+      },
+      {
+        "label": "Excel Light",
+        "uiTheme": "vs",
+        "path": "./themes/excel-light-color-theme.json"
+      },
+      {
+        "label": "PowerPoint Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/powerpoint-dark-color-theme.json"
+      },
+      {
+        "label": "PowerPoint Light",
+        "uiTheme": "vs",
+        "path": "./themes/powerpoint-light-color-theme.json"
+      },
+      {
+        "label": "Outlook Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/outlook-dark-color-theme.json"
+      },
+      {
+        "label": "Outlook Light",
+        "uiTheme": "vs",
+        "path": "./themes/outlook-light-color-theme.json"
+      },
+      {
+        "label": "OneNote Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/onenote-dark-color-theme.json"
+      },
+      {
+        "label": "OneNote Light",
+        "uiTheme": "vs",
+        "path": "./themes/onenote-light-color-theme.json"
+      }
+    ]
+  }
+}
