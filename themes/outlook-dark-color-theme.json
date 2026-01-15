@@ -12,11 +12,11 @@
     "icon.foreground": "#CCCCCC",
     
     // Activity Bar (left sidebar icons)
-    "activityBar.background": "#1a1a1a",
+    "activityBar.background": "#0078D4",
     "activityBar.foreground": "#FFFFFF",
-    "activityBar.inactiveForeground": "#858585",
-    "activityBar.border": "#2D2D2D",
-    "activityBar.activeBorder": "#0078D4",
+    "activityBar.inactiveForeground": "#FFFFFFAA",
+    "activityBar.border": "#005A9E",
+    "activityBar.activeBorder": "#FFFFFF",
     "activityBarBadge.background": "#0078D4",
     "activityBarBadge.foreground": "#FFFFFF",
     
@@ -124,11 +124,11 @@
     "statusBarItem.remoteForeground": "#FFFFFF",
     
     // Title Bar
-    "titleBar.activeBackground": "#1e1e1e",
-    "titleBar.activeForeground": "#CCCCCC",
-    "titleBar.inactiveBackground": "#1e1e1e",
-    "titleBar.inactiveForeground": "#6D6D6D",
-    "titleBar.border": "#2D2D2D",
+    "titleBar.activeBackground": "#0078D4",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#3090E0",
+    "titleBar.inactiveForeground": "#FFFFFFAA",
+    "titleBar.border": "#005A9E",
     
     // Menu Bar
     "menubar.selectionForeground": "#FFFFFF",
@@ -154,8 +154,9 @@
     "quickInput.foreground": "#CCCCCC",
     "quickInputTitle.background": "#1e1e1e",
     "quickInputList.focusBackground": "#0078D4",
+    "quickInputList.focusForeground": "#FFFFFF",
     "pickerGroup.foreground": "#5CB3FF",
-    "pickerGroup.border": "#454545",
+    "pickerGroup.border": "#0078D4",
     
     // Panel (Terminal, Output, Problems)
     "panel.background": "#1e1e1e",
