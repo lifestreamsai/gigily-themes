@@ -137,6 +137,7 @@
     "commandCenter.activeBackground": "#98C0E0",
     "commandCenter.activeForeground": "#0F3A7A",
     "commandCenter.activeBorder": "#185ABD",
+    "commandCenter.inactiveForeground": "#0F3A7A",
 
     // Menu Bar
     "menubar.selectionForeground": "#FFFFFF",
