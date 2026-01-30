@@ -95,24 +95,19 @@ end tell
 
 tell application "System Events"
     tell process "Code"
-        -- Open Command Palette with Cmd+Shift+P
-        keystroke "p" using {command down, shift down}
-        delay 0.6
-
-        -- Type the exact command to set theme
-        keystroke "Preferences: Color Theme"
-        delay 0.8
-        keystroke return
+        -- Open Color Theme picker with Cmd+K Cmd+T (installed themes only)
+        keystroke "k" using {command down}
+        delay 0.3
+        keystroke "t" using {command down}
         delay 0.8
 
-        -- Type theme name (partial match should work for installed themes)
+        -- Type theme name to filter
         keystroke "${theme_name}"
-        delay 1.0
+        delay 0.8
 
-        -- Press Down arrow to ensure we select from installed themes (top of list)
-        -- then press Return
+        -- Press Return to select
         keystroke return
-        delay 2.0
+        delay 1.5
 
         -- Press Escape to close any remaining dialogs
         key code 53
