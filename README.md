@@ -43,11 +43,11 @@ Beautiful light and dark VS Code color themes with vibrant accent colors. Each t
 
 | Theme | Primary | Accent |
 |-------|---------|--------|
-| Word | `#185ABD` | Blue |
-| Sheet | `#217346` | Green |
-| Slide | `#C43E1C` | Orange |
+| Word | `#2B579A` | Blue |
+| Sheet | `#107C41` | Green |
+| Slide | `#D04423` | Orange |
 | Mail | `#0078D4` | Cyan |
-| Note | `#7719AA` | Purple |
+| Note | `#80397B` | Purple |
 | Slack | `#4A154B` | Aubergine |
 | Teams | `#6264A7` | Indigo |
 

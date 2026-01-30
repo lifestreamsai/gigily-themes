@@ -13,19 +13,19 @@
     <!-- Abstract flower with 5 petals -->
     <g filter="url(#glow)">
         <!-- Petal 1 - Sheet Green (top) -->
-        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#217346" transform="rotate(0, 64, 64)"/>
+        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#107C41" transform="rotate(0, 64, 64)"/>
 
         <!-- Petal 2 - Word Blue (top-right) -->
-        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#185ABD" transform="rotate(72, 64, 64)"/>
+        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#2B579A" transform="rotate(72, 64, 64)"/>
 
         <!-- Petal 3 - Mail Cyan (bottom-right) -->
         <ellipse cx="64" cy="32" rx="18" ry="28" fill="#0078D4" transform="rotate(144, 64, 64)"/>
 
         <!-- Petal 4 - Slide Orange (bottom-left) -->
-        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#C43E1C" transform="rotate(216, 64, 64)"/>
+        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#D04423" transform="rotate(216, 64, 64)"/>
 
         <!-- Petal 5 - Note Purple (top-left) -->
-        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#7719AA" transform="rotate(288, 64, 64)"/>
+        <ellipse cx="64" cy="32" rx="18" ry="28" fill="#80397B" transform="rotate(288, 64, 64)"/>
 
         <!-- Center circle -->
         <circle cx="64" cy="64" r="14" fill="#FFFFFF"/>
