@@ -2,6 +2,14 @@
 
 Beautiful light and dark VS Code color themes with vibrant accent colors. Each theme features a unique color identity while maintaining excellent readability and a professional look.
 
+## Preview
+
+### Dark Themes
+![Dark Themes](screenshots/dark-themes-composite.png)
+
+### Light Themes
+![Light Themes](screenshots/light-themes-composite.png)
+
 ## Themes
 
 | Theme | Color | Light | Dark |
