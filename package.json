@@ -1,35 +1,68 @@
 {
   "name": "office-themes",
   "displayName": "Gigily Themes",
-  "description": "Beautiful light and dark VS Code color themes - Word (blue), Sheet (green), Slide (orange), Mail (cyan), and Note (purple)",
-  "version": "1.0.14",
+  "description": "Beautiful light and dark VS Code color themes inspired by productivity apps. 14 themes with 7 color palettes: Word (blue), Sheet (green), Slide (orange), Mail (cyan), Note (purple), Slack (aubergine), and Teams (indigo). Features enhanced terminal colors, bracket pair colorization, semantic highlighting for TypeScript, Python, and Rust.",
+  "version": "1.1.0",
   "publisher": "nimatra",
   "icon": "icon.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
+  },
+  "galleryBanner": {
+    "color": "#185ABD",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
   ],
   "keywords": [
     "theme",
-    "dark",
-    "light",
-    "color",
+    "dark theme",
+    "light theme",
+    "color theme",
     "word",
     "sheet",
+    "excel",
     "slide",
+    "powerpoint",
     "mail",
+    "outlook",
     "note",
-    "green",
+    "onenote",
+    "office",
+    "productivity",
     "blue",
+    "green",
     "orange",
     "purple",
-    "cyan"
+    "cyan",
+    "typescript",
+    "python",
+    "rust",
+    "semantic highlighting",
+    "bracket colorization",
+    "slack",
+    "teams",
+    "microsoft teams"
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/nimatra/gigily-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/nimatra/gigily-themes/issues"
+  },
+  "homepage": "https://github.com/nimatra/gigily-themes#readme",
+  "scripts": {
+    "build": "./scripts/build.sh",
+    "screenshots": "./scripts/screenshots.sh",
+    "release": "./scripts/release.sh",
+    "release:patch": "./scripts/release.sh patch",
+    "release:minor": "./scripts/release.sh minor",
+    "release:major": "./scripts/release.sh major",
+    "release:quick": "./scripts/release.sh --skip-screenshots",
+    "publish": "vsce publish"
   },
   "contributes": {
     "themes": [
@@ -82,6 +115,26 @@
         "label": "Gigily Note Light",
         "uiTheme": "vs",
         "path": "./themes/onenote-light-color-theme.json"
+      },
+      {
+        "label": "Gigily Slack Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slack-dark-color-theme.json"
+      },
+      {
+        "label": "Gigily Slack Light",
+        "uiTheme": "vs",
+        "path": "./themes/slack-light-color-theme.json"
+      },
+      {
+        "label": "Gigily Teams Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/teams-dark-color-theme.json"
+      },
+      {
+        "label": "Gigily Teams Light",
+        "uiTheme": "vs",
+        "path": "./themes/teams-light-color-theme.json"
       }
     ]
   }

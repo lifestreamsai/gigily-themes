@@ -11,10 +11,12 @@ Beautiful light and dark VS Code color themes with vibrant accent colors. Each t
 | **Slide** | Orange | Gigily Slide Light | Gigily Slide Dark |
 | **Mail** | Cyan | Gigily Mail Light | Gigily Mail Dark |
 | **Note** | Purple | Gigily Note Light | Gigily Note Dark |
+| **Slack** | Aubergine | Gigily Slack Light | Gigily Slack Dark |
+| **Teams** | Indigo | Gigily Teams Light | Gigily Teams Dark |
 
 ## Features
 
-- **10 themes** - 5 color variants, each with light and dark modes
+- **14 themes** - 7 color variants, each with light and dark modes
 - **Colored title bars** - Distinctive accent colors in the title bar and status bar
 - **Comprehensive syntax highlighting** - Support for all major languages
 - **Semantic highlighting** - Enhanced token colorization
@@ -38,6 +40,8 @@ Beautiful light and dark VS Code color themes with vibrant accent colors. Each t
 | Slide | `#C43E1C` | Orange |
 | Mail | `#0078D4` | Cyan |
 | Note | `#7719AA` | Purple |
+| Slack | `#4A154B` | Aubergine |
+| Teams | `#6264A7` | Indigo |
 
 ## Contributing
 
