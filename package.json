@@ -2,7 +2,7 @@
   "name": "office-themes",
   "displayName": "Gigily Themes",
   "description": "Beautiful light and dark VS Code color themes inspired by productivity apps. 14 themes with 7 color palettes: Word (blue), Sheet (green), Slide (orange), Mail (cyan), Note (purple), Slack (aubergine), and Teams (indigo). Features enhanced terminal colors, bracket pair colorization, semantic highlighting for TypeScript, Python, and Rust.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "nimatra",
   "icon": "icon.png",
   "license": "MIT",

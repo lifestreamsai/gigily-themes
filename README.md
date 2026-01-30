@@ -5,10 +5,10 @@ Beautiful light and dark VS Code color themes with vibrant accent colors. Each t
 ## Preview
 
 ### Dark Themes
-![Dark Themes](https://raw.githubusercontent.com/nimatra/gigily-themes/main/screenshots/dark-themes-composite.png)
+![Dark Themes](https://raw.githubusercontent.com/lifestreamsai/gigily-themes/main/screenshots/dark-themes-composite.png)
 
 ### Light Themes
-![Light Themes](https://raw.githubusercontent.com/nimatra/gigily-themes/main/screenshots/light-themes-composite.png)
+![Light Themes](https://raw.githubusercontent.com/lifestreamsai/gigily-themes/main/screenshots/light-themes-composite.png)
 
 ## Themes
 
